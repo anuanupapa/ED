@@ -1,0 +1,2 @@
+* Evolutionary Dynamics
+  The repository contains assignments for the evolutionary dynamics course taught in 4th year at IISER-Kolkata.
